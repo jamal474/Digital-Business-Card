@@ -1,13 +1,13 @@
-import header from './component/header'
-import main from './component/main'
-import footer from './component/footer'
+import Header from './component/header'
+import Main from './component/main'
+import Footer from './component/footer'
 
 function App() {
   return (
     <div className="app">
-        <header />
-        <main />
-        <footer />
+        <Header/>
+        <Main />
+        <Footer />
     </div>
   );
 }
