@@ -1,8 +1,9 @@
+import phts from '../images/header-photo.jpg'
 
 function header() {
     return (
-    <div>
-        <h1>header</h1>
+    <div className="header">
+        <img src={phts} className="profile"/>
     </div>
     );
 }
