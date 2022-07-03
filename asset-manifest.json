@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Digital-Business-Card/static/css/main.b2497525.css",
+    "main.js": "/Digital-Business-Card/static/js/main.b3dba72c.js",
+    "static/media/header-photo.jpg": "/Digital-Business-Card/static/media/header-photo.8922b12a6b43d9cbed8d.jpg",
+    "index.html": "/Digital-Business-Card/index.html",
+    "main.b2497525.css.map": "/Digital-Business-Card/static/css/main.b2497525.css.map",
+    "main.b3dba72c.js.map": "/Digital-Business-Card/static/js/main.b3dba72c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2497525.css",
+    "static/js/main.b3dba72c.js"
+  ]
+}
