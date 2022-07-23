@@ -1,6 +1,12 @@
-# Digital Business Card
-Its a digital business card created using React.
+## View Project
+[**Click Here**](https://jamal474.github.io/Digital-Business-Card/)
 
-View : https://jamal474.github.io/Digital-Business-Card/
+## Preview
+![final product](https://github.com/jamal474/Digital-Business-Card/blob/3ff9bc9fad16affc7eab25b99c86a427de14da86/dbc.PNG)
 
-![final product](https://user-images.githubusercontent.com/77582473/175890502-a57a0ecd-96f0-4034-9ed5-ec93fad09660.PNG)
+## Description
+This is a Digital Business Card.
+
+## Details
+[**ReactJS**](https://reactjs.org/) was used to create this project
+
